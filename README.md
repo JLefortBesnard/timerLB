@@ -42,10 +42,8 @@ Once the timer is done, a special beep will ring and "DONE" will be written.
 You can pause the timer using the PAUSE button. A CONTINUE button will then appears. Get back to the session tapping it.
 
 ### App screen shot
-<img src="start.PNG" alt="start" height="90"/>
-<img src="ongoing.PNG" alt="start" height="90"/>
-<img src="paused.PNG" alt="start" height="90"/>
-<img src="end.PNG" alt="start" height="90"/>
+<img src="screenshot_app.PNG" alt="screenshot app" height="300"/>
+
 
 ---
 
