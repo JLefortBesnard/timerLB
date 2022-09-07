@@ -37,10 +37,13 @@ During workout session, a dumbbell will be on the screen, else three sleeping Z 
 
 Once the timer is done, a special beep will ring and "DONE" will be written.
 
-
 ### Pause workout
 
 You can pause the timer using the PAUSE button. A CONTINUE button will then appears. Get back to the session tapping it.
+
+### App screen shot
+<img src="screenshot_app.PNG" alt="screenshot app" height="300"/>
+
 
 ---
 
