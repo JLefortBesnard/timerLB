@@ -27,8 +27,8 @@ A block is a series of work/rest interval pairs.
 
 ### Audio and visual cues
 
-Timer LB always gives a warning consisting of 1 short beep when you're about to transition to a new interval. 
-There is a special beep for a transition from workout to rest, another one for a transition from rest to workout and a last one for finishing.
+Timer LB always gives a warning when you're about to transition to a new interval. 
+It consists of one beep from workout to rest, two beeps at start or from rest to workout and clapping at finish.
 
 Once the timer is launched, you will see written how much time is left and if it is for resting or working out.
 You will also see a green progress bar indicating how much time is left.
