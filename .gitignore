@@ -7,12 +7,13 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea/**
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+/local.properties
 
 local.properties
 *.iml
@@ -38,4 +39,4 @@ proguard
 *.dex
 *.class
 
-!/release/*.apk
+
