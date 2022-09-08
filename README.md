@@ -44,7 +44,8 @@ You can pause the timer using the PAUSE button. A CONTINUE button will then appe
 
 ## How to install the app 
 
-1. Download the APK file of the TimerLB app : <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB_1.1.apk">Click here to download the last version</a> and tap the Download button.
+1. Download the APK file of the TimerLB app : <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB_1.1.apk">Click here to download the last version</a> and tap the Download button. 
+A version with louder beep sounds can be found <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB.apk">here</a>.
 2. You need to allow your webbrowser (Chrome, Firefox, etc...) to install unknown apps by going to Settings > Apps > Menu > Special access > Install unknown apps.
 3. Download the APK file and open it to install it. 
 4. That's it !
