@@ -1,10 +1,8 @@
 # Timer LB
 
 Timer LB is a simple but useful interval training timer for Android.
-
-<a href="https://f-droid.org/packages/losangebleu.site.timerLB/" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90"/></a>
-</a>
+A few screen shots :
+<img src="screenshot_app.PNG" alt="screenshot app" height="300"/>
 
 ## How to use Timer LB
 
@@ -41,16 +39,13 @@ Once the timer is done, a special beep will ring and "DONE" will be written.
 
 You can pause the timer using the PAUSE button. A CONTINUE button will then appears. Get back to the session tapping it.
 
-### App screen shot
-<img src="screenshot_app.PNG" alt="screenshot app" height="300"/>
-
 
 ---
 
 ## How to install the app 
 
-1. Download the APK file of the TimerLB app : <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB_1.1.apk">Click here to download the ast version</a>.
-2. You need to allow your webbrowser (Chrome, Firefox, etc...)to install unknown apps by going to Settings > Apps > Menu > Special access > Install unknown apps.
+1. Download the APK file of the TimerLB app : <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB_1.1.apk">Click here to download the last version</a> and tap the Download button.
+2. You need to allow your webbrowser (Chrome, Firefox, etc...) to install unknown apps by going to Settings > Apps > Menu > Special access > Install unknown apps.
 3. Download the APK file and open it to install it. 
 4. That's it !
 
