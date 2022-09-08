@@ -47,50 +47,12 @@ You can pause the timer using the PAUSE button. A CONTINUE button will then appe
 
 ---
 
-## Development environment
+## How to install the app 
 
-### Requirements
-
-+ `adb`: used to synchronize the development environment with a device (mobile phone, tablet, etc...)
-+ `sdk`: a useful tool to easily install `gradle` versions
-+ `gradle`: used to build the application
-+ A text editor/processor
-
-### Install tools
-
-+ Follow [this instructions](https://developer.android.com/studio/command-line/adb) to install `adb`.
-+ Follow [this instructions](https://sdkman.io/install) to install `sdk`
-+ To install `gradle` simply type `sdk install gradle 2.14.1` and type `Y` when the cli asks if you want to use it as the current `sdk` version. This project will only work with gradle version `2.14.1`.
-+ Check the gradle version using `gradle --version`. It should be 
-
-### Installing the application in a device
-
-#### ADB connection
-
-First let's synchronize the device usibg adb
-
-+ Type `adb devices`
-+ No device should appear unless you connected it by USB. In that case your device is now synchronized with your computer
-+ If you want to synchronize it using Wi-Fi you must first enable tcp connections.
-+ Type `adb tcpip 5555` to start listening to connections
-+ Check that your phone and computer are connected to the same network
-+ Now check which is your device's IP address. This can be typically found in `Settings -> System -> About the phone -> State -> IP address`
-+ Let's assume your IP is `192.168.0.156`, then type `adb connect 192.168.0.156`.
-+ The device should be connected. Check that out typing `adb devices`.
-
-#### Using gradle
-
-Gradle is a tool that we use to build the source code, run tests, release applications, and perform many other tasks.
-
-To build the application we can just type:
-
-+ `gradle installDebug`
-
-It will automatically install the application in your phone using `adb`, that'ß why we need to establish (synchronize) an adb connection first.
-
-Check what other tasks can be performed:
-
-+ `gradle tasks`
+1. Download the APK file of the TimerLB app : <a href="https://github.com/JLefortBesnard/timerLB/blob/main/release/timerLB_1.1.apk">Click here to download the ast version</a>.
+2. You need to allow your webbrowser (Chrome, Firefox, etc...)to install unknown apps by going to Settings > Apps > Menu > Special access > Install unknown apps.
+3. Download the APK file and open it to install it. 
+4. That's it !
 
 ---
 
