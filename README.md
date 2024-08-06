@@ -1,5 +1,7 @@
 # Timer LB
 
+My first Kotlin app :)
+
 Timer LB is a simple but useful interval training timer for Android.
 A few screen shots :
 <img src="screenshot_app.PNG" alt="screenshot app" height="300"/>
@@ -119,4 +121,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Copyright (c) 2022 Jeremy Lefort-Besnard <losangebleu.site> <jlefortbesnard@tuta.io>
+Copyright (c) 2022 Jeremy Lefort-Besnard <https://jlefortbesnard.github.io> <jlefortbesnard@tuta.io>
